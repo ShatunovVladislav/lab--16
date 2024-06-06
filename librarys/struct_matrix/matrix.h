@@ -102,5 +102,5 @@ matrix* createArrayOfMatrixFromArray(const int values[], size_t n_matrices, size
 
 #endif //UNTITLED15_MATRIX_H
 //
-// Created by G0D on 06.06.2024.
+// Created by G0D on 18.05.2024.
 //
